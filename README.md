@@ -53,9 +53,13 @@
 ## Бонус
 
 Предсказано G-квадруплексов для Leuconostoc carnosum: 5, 0 на промотерах
+
 Предсказано G-квадруплексов для Leuconostoc citreum: 25, 1 на промотерах
+
 Предсказано G-квадруплексов для Leuconostoc lactis: 3, 1 на промотерах
+
 Предсказано G-квадруплексов для Leuconostoc mesenteroides: 5, 2 на промотерах
+
 Предсказано G-квадруплексов для Leuconostoc pseudomesenteroides: 5, 1 на промотерах
 
 Пример предсказания для Leuconostoc carnosum:

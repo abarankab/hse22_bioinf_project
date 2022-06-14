@@ -38,7 +38,7 @@
 
 Выравнивания будут в папке alignments. Я сделал их с помощью MUSCLE.
 
-### Визуализации расположения.
+### Визуализации расположения
 
 ![download](https://user-images.githubusercontent.com/12930866/173673991-d7afaf72-c84e-424b-9a32-e726306fb8ad.png)
 

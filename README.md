@@ -4,6 +4,10 @@
 
 ## Результаты по zhunt
 
+Полные результаты лежат в папке zh_results. 
+
+### Таблица
+
 | Название организма              |   Число последовательностей |   Общая длина последовательностей |   Число аннотированных генов |   % аннотированных генов |   Участков z-dna с score > 500 |   Общая длина z-dna с score > 500 |
 |:--------------------------------|----------------------------:|----------------------------------:|-----------------------------:|-------------------------:|-------------------------------:|----------------------------------:|
 | Leuconostoc carnosum            |                           3 |                           1701333 |                         1732 |                    89.16 |                           2236 |                             22074 |
@@ -11,6 +15,14 @@
 | Leuconostoc lactis              |                           2 |                           1903250 |                         1941 |                    79.7  |                           2828 |                             27474 |
 | Leuconostoc mesenteroides       |                           3 |                           2058732 |                         2082 |                    73.68 |                           2069 |                             20280 |
 | Leuconostoc pseudomesenteroides |                           1 |                           2114657 |                         2115 |                    71.73 |                           2794 |                             27126 |
+
+### Гистограммы zh_score
+
+![download](https://user-images.githubusercontent.com/12930866/173687166-765b7b36-5307-487e-8860-5f62ddeabfcd.png)
+![download](https://user-images.githubusercontent.com/12930866/173687184-8cf2dc2a-7047-4366-a197-ab6aca484194.png)
+![download](https://user-images.githubusercontent.com/12930866/173687208-fc9fde5d-fa60-4f63-bfa4-28ba533ee329.png)
+![download](https://user-images.githubusercontent.com/12930866/173687221-9e87507d-eb37-42a9-b9dc-c2a1595a7b2f.png)
+![download](https://user-images.githubusercontent.com/12930866/173687239-e9d8c2a5-ab6e-4626-afa5-52ed1776f919.png)
 
 ## Результаты по кластерам
 

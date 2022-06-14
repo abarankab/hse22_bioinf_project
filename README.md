@@ -49,3 +49,25 @@
 ![download](https://user-images.githubusercontent.com/12930866/173674047-2f9fcdd5-8cbf-46dc-b284-1d52775ee9d9.png)
 
 ![download](https://user-images.githubusercontent.com/12930866/173674067-4982f988-26e5-4643-9fac-508209f577d2.png)
+
+## Бонус
+
+Предсказано G-квадруплексов для Leuconostoc carnosum: 5, 0 на промотерах
+Предсказано G-квадруплексов для Leuconostoc citreum: 25, 1 на промотерах
+Предсказано G-квадруплексов для Leuconostoc lactis: 3, 1 на промотерах
+Предсказано G-квадруплексов для Leuconostoc mesenteroides: 5, 2 на промотерах
+Предсказано G-квадруплексов для Leuconostoc pseudomesenteroides: 5, 1 на промотерах
+
+Пример предсказания для Leuconostoc carnosum:
+
+| chr                                                                           |   Start |     End | ID                                                                                                |   length | strand   | seq                                       |
+|:------------------------------------------------------------------------------|--------:|--------:|:--------------------------------------------------------------------------------------------------|---------:|:---------|:------------------------------------------|
+| NZ_CP042374.1 Leuconostoc carnosum strain CBA3620 chromosome, complete genome |  731704 |  731734 | NZ_CP042374.1 Leuconostoc carnosum strain CBA3620 chromosome, complete genome_731704_731734_rev   |       30 | -        | CCCAAGTTCAACACCCGCCCAGCTTTACCC            |
+| NZ_CP042374.1 Leuconostoc carnosum strain CBA3620 chromosome, complete genome |  871461 |  871502 | NZ_CP042374.1 Leuconostoc carnosum strain CBA3620 chromosome, complete genome_871461_871502_rev   |       41 | -        | CCCAATCACGTCCCCACAAGACACCCATCGTACCATCTCCC |
+| NZ_CP042374.1 Leuconostoc carnosum strain CBA3620 chromosome, complete genome | 1153352 | 1153390 | NZ_CP042374.1 Leuconostoc carnosum strain CBA3620 chromosome, complete genome_1153352_1153390_rev |       38 | -        | CCCTTGTAGGTACGTCCCAATTCCCCAGTATCTGTCCC    |
+| NZ_CP042374.1 Leuconostoc carnosum strain CBA3620 chromosome, complete genome | 1527864 | 1527902 | NZ_CP042374.1 Leuconostoc carnosum strain CBA3620 chromosome, complete genome_1527864_1527902_for |       38 | +        | GGGAAAACTTTGGGCGTTATTGGTTTGGGAAATGTGGG    |
+| NZ_CP042374.1 Leuconostoc carnosum strain CBA3620 chromosome, complete genome | 1531238 | 1531260 | NZ_CP042374.1 Leuconostoc carnosum strain CBA3620 chromosome, complete genome_1531238_1531260_for |       22 | +        | GGGCTGTTGGGATGGGTCTGGG                    |
+
+Было найдено 40 кластеров где на одном из генов есть G-квадруплекс. И всего два где на хотя бы двух генах есть G-квадруплекс. Не было случаев чтобы G-квадруплексов было больше двух.
+
+Приведу визуализацию двух примеров где есть два G-квадруплекса.
